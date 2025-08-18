@@ -63,5 +63,5 @@ MIT — ayrıntılar için `LICENSE` dosyasına bakın.
 ### Ana Pencere
 ![Ana Pencere](screenshots/main_window.jpeg)
 
-### Grafikler ve Telemetri
-![Grafikler](screenshots/graphs.jpeg)
+### Grafikler
+![Grafikler](screenshots/graphs.jpg)
