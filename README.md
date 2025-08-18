@@ -57,3 +57,11 @@ Arayüz; kamera kaydı, telemetri tabloları, gerçek zamanlı grafikler, 3D gyr
 
 ## Lisans
 MIT — ayrıntılar için `LICENSE` dosyasına bakın.
+
+## Arayüz Görselleri
+
+### Ana Pencere
+![Ana Pencere](screenshots/main_window.jpeg)
+
+### Grafikler ve Telemetri
+![Grafikler](screenshots/graphs.jpeg)
