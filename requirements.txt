@@ -1,0 +1,7 @@
+PyQt6
+numpy
+matplotlib
+opencv-python
+pyserial
+numpy-stl
+Pillow

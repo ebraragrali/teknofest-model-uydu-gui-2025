@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+env/
+*.env
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Qt / PyQt build artifacts
+*.qrc
+*.qmlc
+*.jsc
+*.pro.user*
+*.moc
+build/
+dist/
+
+# Project artifacts
+mission_time.dat
+*.avi
+*.mp4
+*.mkv
+*.png
+!image.png
+*.stl
+!gyro1.STL
+recordings/
+
+# Jupyter (olasılıkla yok ama güvenli)
+.ipynb_checkpoints/
+*.ipynb
